@@ -1,4 +1,4 @@
-﻿## Oiii eu sou o Danilo Gabriel Fernandes estudante de programação e tecnologia pela Alura e participante do programa ONE 👋
+﻿## Oiii eu sou o Danilo Gabriel Fernandes participante do programa ONE 👋
 
 - 🌱 Atualmente estou estudando javascript / HTML / CSS
 
