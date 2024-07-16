@@ -12,6 +12,8 @@ No processo da construção do projeto eu inclui os seguintes itens:
 - Área para mostrar o texto criptografado/descriptografado
 - Inclui o botão copiar (extra)
 
+Link para acessar a aplicação: https://projeto-decodificador-de-texto-snowy.vercel.app/
+
 O projeto possui restrição: Na área para digitar o texto não é permito paravras com acento e nem letras maiúsculas.
 
 Pensando na acessibilidade do projeto, sempre que o usuário tentar incluir na área para digitar o texto, uma palavra com acento ou letra maiúscula o site vai enviar o alerta na tela informando a seguinte mensagem **(Palavras com acentos ou letras maiúsculas não são permitidas!)** e depois que clicar em ok o site vai enviar a mesma mensagem por comando de voz, caso o navegador suporte o API Web Speech.
